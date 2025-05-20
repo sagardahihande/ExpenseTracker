@@ -1,5 +1,5 @@
  How to Run the Project 
-git clone - 
+git clone - https://github.com/sagardahihande/ExpenseTracker.git
 Open terminal inside the project folder (where .java files are present).
 
 Run the main class:
